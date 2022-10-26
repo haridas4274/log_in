@@ -36,7 +36,7 @@ while($row=$result->fetch_assoc()) {
             <td> ".$row['Name']."</td>
             <td> ".$row['Email']."</td>
             <td> ".$row['Phone']."</td>
-            </tr>";
+         </tr>";
 }
 
 ?>
